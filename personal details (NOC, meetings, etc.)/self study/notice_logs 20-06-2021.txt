@@ -1,0 +1,228 @@
+/........................................................................../
+/	Notice_logs.txt		/
+/....................................................................../
+
+
+1. Fri, May 28, 11:33 PM :[subject='Internship 2021: Meeting on 29-05-2021']
+Meeting announcement for 29 May, 2021 ((i.e. 29-05-2021) at 11:00 am).
+
+
+2. Sat, May 29, 11:01 AM (duration:1.15hour)*
+https://meet.google.com/yho-enmw-agh
+
+
+3. Tue, Jun 1, 9:14 PM
+Meeting announcement for 29 May, 2021 (i.e. 02/06/2021) at 11:00 am).
+
+
+
+4. Wed, Jun 2, 2021, 11:24 AM (duration:50minutes)*
+https://meet.google.com/vxm-ajmw-fwc
+
+
+5. 
+a.Sat, Jun 5, 1:19 PM
+Meeting today at Afternoon 3 pm;
+Guha sir is going to check our progress. 
+
+b.Sat, Jun 5, 2:59 PM (duration:1.45 hours)*
+https://meet.google.com/psc-qhkj-dxg
+
+c.Jun 5, 2021, 4:10 PM
+Joining whatsapp group:
+https://chat.whatsapp.com/JGkVmgZr91r5fldseZ4ASe
+
+d.Sat, Jun 5, 5:06 PM
+For Sagar Deka and Sandip Das
+
+The facebook mBART 50 model is available at the following link.
+https://huggingface.co/facebook/mbart-large-50-one-to-many-mmt
+
+And a tutorial for it
+https://www.youtube.com/watch?v=fxZtz0LPJLE
+
+
+Another translation library is John Snow Labs.
+https://www.johnsnowlabs.com/spark-nlp-in-action/
+
+
+
+6. Wed, Jun 9, 10:04 AM (duration:1hour)*
+https://meet.google.com/zjv-nifr-xcw
+Via Whatsapp:
+[10:58 AM, 6/9/2021] Pankaj Sir Whatsapp: For training loss and validation loss
+[10:58 AM, 6/9/2021] Pankaj Sir Whatsapp: https://www.google.com/url?sa=t&source=web&rct=j&url=https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/&ved=2ahUKEwjk3IrL6InxAhWWXisKHd9lCF4QFjAAegQIBBAC&usg=AOvVaw1PSdCRTlRsmKoR0F1lDJ9I
+[10:58 AM, 6/9/2021] Pankaj Sir Whatsapp: https://towardsdatascience.com/useful-plots-to-diagnose-your-neural-network-521907fa2f45
+[10:59 AM, 6/9/2021] Pankaj Sir Whatsapp: Check this two blogs for your reference
+[11:00 AM, 6/9/2021] Pankaj Sir Whatsapp: Try to plot loss for different optimization functions.
+[11:04 AM, 6/9/2021] Md Sarwar Ahmed: Sir, can we plot validation vs loss curve for one optimisation function and then implement different optimisations on Cifar 10 dataset?
+[11:06 AM, 6/9/2021] Pankaj Sir Whatsapp: 
+1. First take optimization fn sgd 
+2. then run for N number of epoch. 
+3. Get mean val loss and train loss for all data
+4. Plot one epoch vs loss
+[11:07 AM, 6/9/2021] Pankaj Sir Whatsapp: Do the same for adam
+[11:08 AM, 6/9/2021] Md Sarwar Ahmed: Thank you , Sir
+
+
+Via Whatsapp:
+[4:27 PM, 6/11/2021] Pankaj Sir Whatsapp: PK Biswas https://nptel.ac.in/courses/106/105/106105215/
+[4:27 PM, 6/11/2021] Pankaj Sir Whatsapp: Mitesh khapra 
+https://nptel.ac.in/courses/106/106/106106201/
+
+
+7. Sun, Jun 13, 9:08 PM
+For manash (instance segmentation)
+https://paperswithcode.com/task/instance-segmentation
+https://towardsdatascience.com/single-stage-instance-segmentation-a-review-1eeb66e0cc49
+
+Others can also check if interested.
+https://towardsdatascience.com/tagged/instance-segmentation
+
+
+
+
+8. Mon, Jun 14, 2021, 11:48 AM
+RNN:
+https://www.youtube.com/watch?v=qjrad0V0uJE&t=157s
+https://www.youtube.com/watch?v=UNmqTiOnRfg&ab_channel=KrishNaikKrishNaikVerified
+https://www.youtube.com/watch?v=yZv_yRgOvMg&ab_channel=CodeEmporiumCodeEmporium
+https://www.youtube.com/watch?v=QciIcRxJvsM&t=583s&ab_channel=CodeEmporiumCodeEmporium
+
+Code:
+https://www.kdnuggets.com/2020/07/pytorch-lstm-text-generation-tutorial.html
+
+
+
+9. Tue, Jun 15, 10:55 PM
+For Sagar Deka Mbert paper:
+https://drive.google.com/file/d/1WhK15uC1w7tXhUXVcqFlyi3q3JYVL6LZ/view?usp=sharing
+
+
+
+10. Wed, Jun 16, 11:05 AM (duration:40minutes)*
+meeting link: https://meet.google.com/ngi-ijvj-avh
+jokes.csv: https://drive.google.com/file/d/1kOadSpKuRv2MG0vapY5GF5KKO8HZ001u/view?usp=sharing
+
+
+
+
+11. Sat, Jun 19, 11:27 AM (duration:2.5hours)*
+https://meet.google.com/uok-xuvz-ngo
+
+1.https://www.youtube.com/watch?v=c_bVBYxX5EU&ab_channel=CodeEmporiumCodeEmporium
+2.https://www.youtube.com/watch?v=y2BaTt1fxJU&t=5s&ab_channel=AladdinPerssonAladdinPersson
+
+Please check the attached paper and try to implement. 
+You may find code in GitHub repo also, however i recommend you learn and 
+understand the flow of code, how input is preprepared and feed to the model. 
+For theoretical understanding please check link 1, for implementation check link 2. 
+
+For any doubt feel free to ask me. 
+For this implementation use Flickr8K dataset.
+
+##Shared with me:
+pankaj.app.3190@gmail.com has shared a link to the following folder:
+Flickr8K Dataset for Show and tell paper. Create a shortcut link to your google drive for use.
+https://drive.google.com/drive/folders/1wVNmL7RM9MVnFUlpxB5S_Uou-fdIpT7J?usp=sharing
+
+[meeting_notes:]'19/06/2021
+
+https://youtu.be/W2rWgXJBZhU
+show attend and tell
+
+https://huggingface.co/facebook/mbart-large-50-one-to-many-mmt
+
+
+
+12. Sun, Jun 20, 2:05 AM
+For Manash
+
+Image annotation tool 
+https://towardsdatascience.com/annotate-your-image-using-online-annotation-tool-52d0a742daff
+
+https://github.com/SkalskiP/make-sense
+
+Also check this blog https://bohemian.ai/blog/image-annotation-tools-which-one-pick-2020/
+
+
+
+
+13.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+*meeting_nums, *meeting_minutes, 
+*meeting_desc, *meeting_links,
+
+[type:]index[12]
+-------------------------------------------------------------------------------------------------------------------------------
+
+from:	Pankaj Choudhury <pankajchoudhury@iitg.ac.in>
+to:	
+MANASH PRATIM <manaspratim41@gmail.com>,
+SANDIP DAS <sandipdas.7684@gmail.com>,
+Sagar Deka <666deka@gmail.com>,
+RITURAJ TALUKDAR <riturajtalukdar_ug@ee.nits.ac.in>,
+ECE_035_Tonoy Baruah <tonoy_ug@ece.nits.ac.in>,
+ECE_014_Fahad Sameer Islam <fahad_ug@ece.nits.ac.in>,
+ECE_006_ Md Sarwar Ahmed <md_ug@ece.nits.ac.in>,
+CSE_015_Bhaskar <bhaskar_ug@cse.nits.ac.in>,
+Kamakhya prasad sut <kamakhyasut_ug@ece.nits.ac.in>,
+Aniket Srivastava <184555@nith.ac.in>,
+EIE_014_Kimtiraj Handique <kimtiraj_ug@ei.nits.ac.in>
+date:	Jun 20, 2021, 2:05 AM
+subject:	Re: Internship 2021: Meeting on 29-05-2021
+mailed-by:	iitg.ac.in
+signed-by:	iitgoffice.onmicrosoft.com
+-------------------------------------------------------------------------------------------------------------------------------
+Author: @md_ug.ece.nits.ac.in (Md Sarwar Ahmed) ; 20June, 2021.
+
+Last Updates: 
+20 June, 2021 04:46AM.
