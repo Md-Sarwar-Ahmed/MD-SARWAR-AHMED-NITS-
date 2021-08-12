@@ -4,7 +4,7 @@
 
 Repository for code submissions of --
 IIT Guwahati 2021 Summer Internship --
-In Image Captioning & Machine Translation --
+In Image Captioning, Object Detection, annotations and Machine Translation --
 __________________________________________
 Under guidance and support of 
 Prof. Dr. Prithwijit Guha (Sir), 
